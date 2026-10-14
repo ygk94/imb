@@ -1,0 +1,15 @@
+# Environnement
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Données Kaggle (ne pas publier)
+*.csv
+submissions/
+
+# Secrets
+.env
+
+# Fichiers locaux skore
+.skore/

@@ -1,0 +1,10 @@
+# Environnement Python (énorme, inutile pour Bob)
+.venv/
+__pycache__/
+
+# Données : trop lourdes pour le contexte -> passer par un script qui résume
+*.csv
+submissions/
+
+# Secrets
+.env

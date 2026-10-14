@@ -13,3 +13,6 @@ submissions/
 
 # Fichiers locaux skore
 .skore/
+
+# Workspace local skore
+skore/

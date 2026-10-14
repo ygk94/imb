@@ -3,3 +3,5 @@ __pycache__/
 *.csv
 submissions/
 .env
+# Workspace local skore (rapports)
+skore/

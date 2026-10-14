@@ -9,7 +9,7 @@
 
 ## Environnement
 - Windows. Python : `.venv\Scripts\python.exe` (ne pas créer d'autre venv).
-- Paquets : pandas, numpy, scikit-learn, skrub, skore, skore-hub-project, lightgbm, xgboost, catboost, matplotlib, seaborn.
+- Paquets : pandas, numpy, scikit-learn, skrub, skore, lightgbm, xgboost, catboost, matplotlib, seaborn.
 
 ## Structure
 - `src/` : code (scripts .py)
